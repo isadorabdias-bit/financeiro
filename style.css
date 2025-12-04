@@ -1,0 +1,19 @@
+body{
+background-color: antiquewhite;
+text-align: center;
+}
+
+h1{
+    color: rgb(237, 157, 53);
+}
+
+button{
+    color:rgb(222, 135, 135);
+    background-color: rgb(110, 20, 20);
+    border: 30px;
+    border-color: rgb(90, 3, 3);
+}
+
+.mensagem-erro{
+    color: blue;
+}
